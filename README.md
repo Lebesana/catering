@@ -1,2 +1,2 @@
 # catering
-Receptionist system
+Equipment Management System for staff.
